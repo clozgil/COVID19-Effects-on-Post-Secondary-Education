@@ -1,5 +1,9 @@
 # COVID19-Effects-on-Post-Secondary-Education
 
+The Notebook contains links that don't operate on Github. It is recommended to view the project below:
+https://nbviewer.org/github/clozgil/COVID19-Effects-on-Post-Secondary-Education/blob/main/COVID-19%20Effects%20on%20Post-Secondary%20Education.ipynb
+
+
 # Introduction
 
 This project is an analysis on the disruptions in post-secondary education (post-sec ed) caused by the COVID-19 pandemic. The article "Disparities in Disruptions to Postsecondary Education Plans" published by Dr. Ran Liu from the University of Wisconsin-Madison shows the potentially devasting effects on the economy, population, and under-representated minorities should post-sec ed plans be disrupted. For this reason, this project will be an exploration of the population who had their post-sec ed plans disrupted. We will pay close attention to discovering who those individuals are, and what were the various reasons for those disruptions. Finally, we'll construct a few classification models to try and predict those who are most likely to cancel their plans. For the purpose of this project, we will treat post-sec ed  as any kind of instruction after high school graduation whether it be from a college, university, community college, trade school, or other occupational school (such as cosmetology or school of culinary arts).
